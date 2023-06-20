@@ -7,7 +7,6 @@ This is a personal website focusing on showcasing the technical skills and web d
 - [Introduction](#introduction)
 - [Structure](#structure)
 - [Live Demo](#live-demo)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -27,10 +26,6 @@ The website is structured into the following main sections:
 ## Live Demo
 
 A live demo of the website is available through the `Environments` section on the right side of the GitHub repository page. Click on `View deployment` to view and interact with the live website.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
 
